@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# diortemew github repository
+##
+###
+####
+#####
+####
+###
+##
+# README.md
 
-You can use the [editor on GitHub](https://github.com/diortemew/My-AYu-WebDev2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This repository exists due to a Udemy Course I purchased so that I could delve into Web Development via Angela Yu's "The Complete 2021 Web Development Bootcamp". For the most part I've been keeping my files on a friends git server, but thought I'd share here, too in case others want to refer to the code I write to help them learn any sections or elements that they may struggle with or not understand. This will also help me become more familiar with git and GitHub as I take on all of these new technologies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Metroid fanatic with a passion for most things Nintendo including their IPs such as Mario, Zelda, Kirby, and Donkey Kong. Also, I am United States Air Force Veteran disabled after a 15-year career. After my separation I focused on Linux Admin and peered into Python; I earned my AAS, Information Technology a couple of years ago and have recently discovered a geeky desire to develop on the front-end of web development. I also love to read about Free and Open-source Software (FOSS), FreeBSD, Linux, and the latest updates on cyber security fundamentals.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/diortemew/My-AYu-WebDev2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I have a lot to learn, so if you find yourself in need of code for Ms. Yu's coding bootcamp, stop by, but do yourself a favor; follow along, pause the videos when she challenges you, and no matter what, do not give up. Stick with it. May the Force be with you. Cheers!
